@@ -1,0 +1,2 @@
+C:\Users\CIEN1\Downloads\running\Temp\UnityVS_obj\Debug\running.csprojAssemblyReference.cache
+C:\Users\CIEN1\Downloads\running\Temp\UnityVS_obj\Debug\running.csproj.CoreCompileInputs.cache

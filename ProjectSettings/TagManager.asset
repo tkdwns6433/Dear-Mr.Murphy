@@ -3,10 +3,7 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags:
-  - damCol
-  - cliff
-  - rock
+  tags: []
   layers:
   - Default
   - TransparentFX
@@ -16,8 +13,8 @@ TagManager:
   - UI
   - 
   - 
-  - Player
   - Ground
+  - Player
   - 
   - 
   - 
@@ -43,10 +40,4 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
-    locked: 0
-  - name: ground
-    uniqueID: 1213985649
-    locked: 0
-  - name: Player
-    uniqueID: 320871203
     locked: 0
